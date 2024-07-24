@@ -1,0 +1,43 @@
+{
+  "name": "react-video-editor-timeline",
+  "version": "1.0.0",
+  "description": "A customizable video and audio timeline component for React projects",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src --ext .js,.jsx"
+  },
+  "keywords": [
+    "react",
+    "video",
+    "audio",
+    "timeline",
+    "component",
+    "customizable",
+    "video editor"
+  ],
+  "author": "Akshaykumar Makwana",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^4.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-video-editor-timeline": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshay-092/react-video-editor-timeline.git"
+  }
+}
